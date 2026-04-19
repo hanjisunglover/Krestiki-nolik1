@@ -1,11 +1,13 @@
 # main.py
 import sys
 import os
+
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 from modulA import create_board, print_board
 from modulB import player_move
 from modulC import check_win
+
 
 def main():
     board = create_board()
@@ -28,6 +30,7 @@ def main():
 
         # Меняем игрока
         current_player = "O" if current_player == "X" else "X"
+
 
 if __name__ == "__main__":
     main()

@@ -1,5 +1,6 @@
 # modulC.py
 
+
 def check_win(board, player):
     """Проверяет, победил ли игрок"""
 

@@ -1,5 +1,6 @@
 # modulB.py
 
+
 def player_move(board, player):
     """Обрабатывает ход игрока и ставит X или O на поле"""
     while True:
