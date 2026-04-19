@@ -9,7 +9,7 @@ def player_move(board, player):
             col = int(input(f"Игрок {player}, введите столбец (0-2): "))
 
             if row not in range(3) or col not in range(3):
-                print("Координаты должны быть 0, 1 или 2!")
+                print("Координаты обязательно должны быть 0, 1 или 2!")
                 continue
 
             if board[row][col] == " ":
