@@ -1,3 +1,4 @@
+[![Python CI](https://github.com/heecel/Krestiki-nolik1/actions/workflows/ci.yml/badge.svg)](https://github.com/heecel/Krestiki-nolik1/actions/workflows/ci.yml)
 # Крестики-нолики
 Консольное приложение — классическая игра «Крестики-нолики» для двух игроков. Позволяет поочерёдно делать ходы, проверяет победителя и определяет ничью.
 
