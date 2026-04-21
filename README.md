@@ -79,3 +79,9 @@ python main.py
 ...
 
 Игрок X победил!
+
+## Технологии
+* **Язык:** Python 3.x
+* **Тестирование:** Pytest
+* **Линтеры:** Flake8, Black
+* **CI/CD:** GitHub Actions
